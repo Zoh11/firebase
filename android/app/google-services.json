@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "701344260261",
+    "project_id": "getwayaapp",
+    "storage_bucket": "getwayaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701344260261:android:f96848cc547ccfeb5e6d4c",
+        "android_client_info": {
+          "package_name": "com.example.getwayaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKJYjMKbxBgx-J4ea6KQXL3CauSBdKP50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
